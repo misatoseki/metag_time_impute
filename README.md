@@ -1,4 +1,4 @@
-# Imputation of time-series microbiome abundance profiles
+# Imputation of time-series microbiome profiles
 
 A repository of IEEE conference paper titled "Imputing time-series microbiome abundance profiles with diffusion model". 
 
