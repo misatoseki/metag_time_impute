@@ -1,4 +1,6 @@
-# Imputing time-series microbiome abundance profiles with diffusion model
+# Imputation of time-series microbiome abundance profiles
+
+A repository of IEEE conference paper titled "Imputing time-series microbiome abundance profiles with diffusion model". 
 
 ## Requirement
 
@@ -10,5 +12,10 @@
 + tqdm
 + pyyaml
 + sklearn
+
+## Acknowledgement
+
+The codes of the diffusion model were developed based on [CSDI]([https://github.com/caow13/BRITS](https://github.com/ermongroup/CSDI)https://github.com/ermongroup/CSDI).
+
 
 
