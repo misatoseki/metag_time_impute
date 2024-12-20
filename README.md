@@ -1,6 +1,6 @@
-## About this repo
+# Imputing time-series microbiome abundance profiles with diffusion model
 
-A repository for **"Imputing time-series microbiome abundance profiles with diffusion model"**. 
+This repository stores codes used in the paper titled "Imputing time-series microbiome abundance profiles with diffusion model". 
 
 [https://doi.org/10.1109/BIBM58861.2023.10385703](https://doi.org/10.1109/BIBM58861.2023.10385703)
 
